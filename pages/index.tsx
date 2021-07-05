@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
+import 'tailwindcss/tailwind.css'
 
 export const Home = (): JSX.Element => (
   <div className="container">
